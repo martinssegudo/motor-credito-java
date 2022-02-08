@@ -41,7 +41,7 @@ public class SwaggerConfig {
     private StringBuilder buildDescription() {
         StringBuilder text = new StringBuilder();
         text.append("Aplicação de motor de crédito");
-        text.append(" Está api ");
+        text.append("Api para cálculo de credito disponível para clientes");
         return text;
     }
 
